@@ -1,0 +1,7 @@
+tenant: "spiritsec"
+aws_default_region: "us-east-1"
+tags:
+  managed_by: "terraform"
+  project_name: "terragrunt-lab-1"
+  owner: "gcavalcante"
+  team: "spiritsec"
